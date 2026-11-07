@@ -78,13 +78,13 @@ PM2.5 forecasting and air-quality insights focused on Pakistan, developed as a c
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/FILE_03-DSA%20LAB-555B66?style=flat-square&labelColor=101114" alt="File 03 DSA lab" />
+<img src="https://img.shields.io/badge/FILE_03-DESKTOP%20UTILITY-9B3038?style=flat-square&labelColor=101114" alt="File 03 desktop utility" />
 
-### Data Structures & Algorithms
+### [FileZipper](https://github.com/ilaybaakram/FileZipper)
 
-Coursework and small builds exploring fundamental data structures and problem-solving in C/C++.
+A C++17 and Qt 6 desktop app for lossless file compression and decompression, implemented from scratch using Huffman Coding.
 
-<sub>C++ · FUNDAMENTALS</sub>
+<sub>C++ · QT 6 · HUFFMAN CODING</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -133,7 +133,7 @@ Building, experimenting, and adding new projects as I learn.
 
 </blockquote>
 
-<sub>STARK-INSPIRED DESIGN · MARVEL REFERENCES, KEPT IN CHECK · BUILT WITH CURIOSITY</sub>
+<sub>ONE STEP AT A TIME · ALWAYS BUILDING WHAT'S NEXT · KEEP THE CURIOSITY</sub>
 
 <br/>
 
