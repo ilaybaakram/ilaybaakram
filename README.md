@@ -1,60 +1,91 @@
-<!-- LAIBA AKRAM | subtle Stark/JARVIS-inspired profile -->
-
 <div align="center">
 
-# LAIBA AKRAM
+<img src="assets/stark-header.svg" width="100%" alt="Laiba Akram — Stark-inspired developer header" />
 
-### Computer Science Undergraduate · NED University of Engineering & Technology
+<br/>
 
-<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-9B3038?style=flat-square&labelColor=171717" alt="Learning and building" />
-<img src="https://img.shields.io/badge/INTERFACE-JARVIS%20INSPIRED-287DA8?style=flat-square&labelColor=171717" alt="JARVIS inspired" />
+<img src="https://img.shields.io/badge/CS%20UNDERGRAD-NED%20UNIVERSITY-9B3038?style=flat-square&labelColor=101114" alt="CS Undergraduate at NED" />
+<img src="https://img.shields.io/badge/FOCUS-LEARN%20BY%20BUILDING-287DA8?style=flat-square&labelColor=101114" alt="Focus: Learn by building" />
 
 <br/><br/>
 
 *“Sometimes you gotta run before you can walk.”*  
-— **Tony Stark**
+<sub>— Tony Stark</sub>
 
 </div>
 
 ---
 
-### SYSTEM PROFILE
+<table>
+<tr>
+<td width="52%" valign="top">
+
+### ◈ ABOUT ME
+
+Hey, I'm **Laiba** — a CS undergraduate who likes understanding how things work, then turning that curiosity into projects.
+
+- 🎓 Computer Science @ NED
+- 💻 Exploring software development & AI/ML
+- 🧩 Learning through hands-on projects
+- 🛠️ Currently building **CrawlScope**
+
+</td>
+<td width="48%" valign="top">
+
+### ◈ SYSTEM PROFILE
 
 <pre>
-USER       : Laiba Akram
-ROLE       : Computer Science Undergraduate
-FOCUS      : Software Development · AI/ML · Problem Solving
-CURRENTLY  : Learning by building projects
+USER       Laiba Akram
+STATUS     Learning / Building
+INTERESTS  Software · AI/ML
+LOCATION   Karachi, Pakistan
 </pre>
 
-I'm a CS student who enjoys exploring how things work and turning ideas into practical projects.  
-Currently strengthening my programming fundamentals and learning through hands-on development.
+*“I can do this all day.”*  
+<sub>— Steve Rogers</sub>
 
-### CURRENT OPERATIONS
+</td>
+</tr>
+</table>
 
-| Project | Brief |
-|:--|:--|
-| **CrawlScope** | A web crawler project — learning the architecture and building it step by step. |
-| **AirLab** | PM2.5 forecasting and air-quality insights for Pakistan. |
+## ◈ PROJECT FILES
 
-### TECH ARSENAL
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/01-WEB%20INTELLIGENCE-9B3038?style=flat-square&labelColor=101114" alt="Web intelligence" />
+
+### [CrawlScope](https://github.com/ilaybaakram)
+
+A web crawler in progress. Exploring crawling architecture, URL handling, and how the web can be traversed programmatically.
+
+<sub>PYTHON · LEARNING IN PUBLIC</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/02-AIR%20QUALITY-287DA8?style=flat-square&labelColor=101114" alt="Air quality" />
+
+### AirLab
+
+PM2.5 forecasting and air-quality insights focused on Pakistan, built as a collaborative ML project.
+
+<sub>ML · DATA · FORECASTING</sub>
+
+</td>
+</tr>
+</table>
+
+## ◈ TECH STACK
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/C++-161616?style=for-the-badge&logo=cplusplus&logoColor=E34F26" alt="C++" />
-<img src="https://img.shields.io/badge/Python-161616?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-<img src="https://img.shields.io/badge/Git-161616?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-161616?style=for-the-badge&logo=github&logoColor=F5F5F5" alt="GitHub" />
-<img src="https://img.shields.io/badge/VS%20Code-161616?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
-
-</div>
-
-### GITHUB ACTIVITY
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ilaybaakram&show_icons=true&hide_title=true&theme=dark&bg_color=0D1117&border_color=30363D&icon_color=C4474D&title_color=C4474D&text_color=C9D1D9" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilaybaakram&layout=compact&theme=dark&bg_color=0D1117&border_color=30363D&title_color=C4474D&text_color=C9D1D9" alt="Top languages" />
+<img src="https://img.shields.io/badge/C++-1B1B1F?style=for-the-badge&logo=cplusplus&logoColor=E34F26" alt="C++" />
+<img src="https://img.shields.io/badge/Python-1B1B1F?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+<img src="https://img.shields.io/badge/Git-1B1B1F?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-1B1B1F?style=for-the-badge&logo=github&logoColor=F5F5F5" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS%20Code-1B1B1F?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
 
 </div>
 
@@ -63,13 +94,12 @@ Currently strengthening my programming fundamentals and learning through hands-o
 <div align="center">
 
 *“We're in the endgame now.”*  
-— **Doctor Strange**
+<sub>— Doctor Strange</sub>
 
 <br/>
 
-*“I can do this all day.”*  
-— **Steve Rogers**
+<img src="https://img.shields.io/badge/PROFILE-UNDER%20CONSTRUCTION-9B3038?style=flat-square&labelColor=101114" alt="Profile under construction" />
 
-<sub>STARK-INSPIRED DESIGN · BUILT WITH CURIOSITY · ALWAYS IN PROGRESS</sub>
+<sub>STARK-INSPIRED, NOT STARK-OVERLOADED. ✦</sub>
 
 </div>
