@@ -2,82 +2,108 @@
 
 <img src="assets/stark-header.svg" width="100%" alt="Laiba Akram — Stark-inspired developer header" />
 
-<br/>
-
 <img src="https://img.shields.io/badge/CS%20UNDERGRAD-NED%20UNIVERSITY-9B3038?style=flat-square&labelColor=101114" alt="CS Undergraduate at NED" />
 <img src="https://img.shields.io/badge/FOCUS-LEARN%20BY%20BUILDING-287DA8?style=flat-square&labelColor=101114" alt="Focus: Learn by building" />
 
 <br/><br/>
 
-*“Sometimes you gotta run before you can walk.”*  
-<sub>— Tony Stark</sub>
+<sub>“Sometimes you gotta run before you can walk.” — Tony Stark</sub>
 
 </div>
 
----
+<br/>
+
+<img src="assets/section-about.svg" width="100%" alt="Personnel file section banner" />
 
 <table>
 <tr>
-<td width="52%" valign="top">
+<td width="58%" valign="top">
 
-### ◈ ABOUT ME
+### Hey, I'm Laiba.
 
-Hey, I'm **Laiba** — a CS undergraduate who likes understanding how things work, then turning that curiosity into projects.
+Computer Science undergraduate at NED who enjoys figuring out how things work and turning that curiosity into projects.
 
-- 🎓 Computer Science @ NED
-- 💻 Exploring software development & AI/ML
-- 🧩 Learning through hands-on projects
-- 🛠️ Currently building **CrawlScope**
+- 🎓 CS @ NED University
+- 🧠 Interested in software development & AI/ML
+- 🧩 Learning by building, one project at a time
+- ⚙️ Currently working on **CrawlScope**
 
 </td>
-<td width="48%" valign="top">
-
-### ◈ SYSTEM PROFILE
+<td width="42%" valign="top">
 
 <pre>
-USER       Laiba Akram
-STATUS     Learning / Building
-INTERESTS  Software · AI/ML
-LOCATION   Karachi, Pakistan
+╭─ SYSTEM PROFILE ──────────╮
+│ USER      Laiba Akram    │
+│ STATUS    Learning       │
+│ FOCUS     Software / ML  │
+│ BASE      Karachi, PK    │
+╰───────────────────────────╯
 </pre>
 
-*“I can do this all day.”*  
-<sub>— Steve Rogers</sub>
+<sub>“I can do this all day.” — Steve Rogers</sub>
 
 </td>
 </tr>
 </table>
 
-## ◈ PROJECT FILES
+<br/>
+
+<img src="assets/section-projects.svg" width="100%" alt="Project archive section banner" />
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/01-WEB%20INTELLIGENCE-9B3038?style=flat-square&labelColor=101114" alt="Web intelligence" />
+<img src="https://img.shields.io/badge/FILE_01-WEB%20INTELLIGENCE-9B3038?style=flat-square&labelColor=101114" alt="File 01 web intelligence" />
 
-### [CrawlScope](https://github.com/ilaybaakram)
+### CrawlScope
 
-A web crawler in progress. Exploring crawling architecture, URL handling, and how the web can be traversed programmatically.
+A web crawler in progress. Exploring crawler architecture, URL handling, and how the web can be traversed programmatically.
 
-<sub>PYTHON · LEARNING IN PUBLIC</sub>
+<sub>PYTHON · UNDER DEVELOPMENT</sub>
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/02-AIR%20QUALITY-287DA8?style=flat-square&labelColor=101114" alt="Air quality" />
+<img src="https://img.shields.io/badge/FILE_02-AIR%20QUALITY-287DA8?style=flat-square&labelColor=101114" alt="File 02 air quality" />
 
 ### AirLab
 
-PM2.5 forecasting and air-quality insights focused on Pakistan, built as a collaborative ML project.
+PM2.5 forecasting and air-quality insights focused on Pakistan, developed as a collaborative machine-learning project.
 
 <sub>ML · DATA · FORECASTING</sub>
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/FILE_03-DSA%20LAB-555B66?style=flat-square&labelColor=101114" alt="File 03 DSA lab" />
+
+### Data Structures & Algorithms
+
+Coursework and small builds exploring fundamental data structures and problem-solving in C/C++.
+
+<sub>C++ · FUNDAMENTALS</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/NEXT%20MISSION-LOADING-555B66?style=flat-square&labelColor=101114" alt="Next mission loading" />
+
+### More in the works
+
+Building, experimenting, and adding new projects as I learn.
+
+<sub>STAY TUNED</sub>
+
+</td>
+</tr>
 </table>
 
-## ◈ TECH STACK
+<br/>
+
+<img src="assets/section-tech.svg" width="100%" alt="Tech armory section banner" />
 
 <div align="center">
 
@@ -87,19 +113,30 @@ PM2.5 forecasting and air-quality insights focused on Pakistan, built as a colla
 <img src="https://img.shields.io/badge/GitHub-1B1B1F?style=for-the-badge&logo=github&logoColor=F5F5F5" alt="GitHub" />
 <img src="https://img.shields.io/badge/VS%20Code-1B1B1F?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
 
+<br/>
+
+<sub>ALWAYS ADDING TO THE ARMORY</sub>
+
 </div>
-
----
-
-<div align="center">
-
-*“We're in the endgame now.”*  
-<sub>— Doctor Strange</sub>
 
 <br/>
 
-<img src="https://img.shields.io/badge/PROFILE-UNDER%20CONSTRUCTION-9B3038?style=flat-square&labelColor=101114" alt="Profile under construction" />
+<img src="assets/section-transmission.svg" width="100%" alt="Final transmission section banner" />
 
-<sub>STARK-INSPIRED, NOT STARK-OVERLOADED. ✦</sub>
+<div align="center">
+
+<blockquote>
+
+*“We're in the endgame now.”*
+
+<sub>— Doctor Strange</sub>
+
+</blockquote>
+
+<sub>STARK-INSPIRED DESIGN · MARVEL REFERENCES, KEPT IN CHECK · BUILT WITH CURIOSITY</sub>
+
+<br/>
+
+<img src="https://img.shields.io/badge/PROFILE-ALWAYS%20EVOLVING-9B3038?style=flat-square&labelColor=101114" alt="Profile always evolving" />
 
 </div>
